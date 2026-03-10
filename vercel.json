@@ -29,6 +29,10 @@
     }
   ],
   "env": {
-    "PORT": "3000"
+    "PORT": "3000",
+    "EMAIL_USER": "nehithachoudhary14@gmail.com",
+    "EMAIL_PASSWORD": "vvelbwfaaedleizd",
+    "ADMIN_EMAIL": "soujanya.kora1@gmail.com",
+    "GOOGLE_MAPS_API_KEY": "AIzaSyB7rMbzM5VWAvbRuyc6iDlhEg9HCov_TXU"
   }
 }
